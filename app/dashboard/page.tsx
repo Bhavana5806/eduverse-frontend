@@ -74,7 +74,7 @@ export default function Dashboard() {
         {/* Welcome Section */}
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-white mb-2">
-            {t.dashboard || 'Dashboard'}
+            Dashboard
           </h1>
           <p className="text-white/60">
             Your personalized learning journey powered by AI
